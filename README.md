@@ -1,2 +1,3 @@
 Ödev 1 =>     https://www.youtube.com/watch?index=2&list=PLqG356ExoxZU5keiJwuHDpXqULLffwRYD&v=mPvUodG55yc
+
 Ödev 2 =>     https://www.youtube.com/watch?v=ruGBQ8BS_Co&list=PLqG356ExoxZXauNTWImDGmhSXEB7TBah-
