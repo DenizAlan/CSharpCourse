@@ -25,7 +25,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferanceTypes", "Referance
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{918210BE-5FBB-411E-91E3-F23EDA74DA69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İnterfaces2", "İnterfaces2\İnterfaces2.csproj", "{D792F91E-EE84-49EE-9B92-5AD0A426547E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces2", "İnterfaces2\Interfaces2.csproj", "{D792F91E-EE84-49EE-9B92-5AD0A426547E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
